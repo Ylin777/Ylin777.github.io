@@ -4,26 +4,26 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a third-year student at Monash University and will be graduating next year. I am majoring in linguistics and am currently spending a semester as an exchange student at the University of Helsinki. I love traveling because I feel that experiencing the scenery and culture of different places enriches my mind. I also enjoy watching movies,listening to music and I am a big fan of concerts, I love enjoying all kinds of concerts.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/Ylin777)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form vo24717@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Foundations of Natural Language Processing](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a2cfd8ac-27c2-412a-97f4-79a8ec1586eb), fall 2026
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Command Line Tools for Linguistics](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2026
 
 ## Projects
 
+[Command Line course](https://github.com/Ylin777/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
-
-<!-- deployment test -->
+[Music Recommendations](https://open.spotify.com/search/jackson%20wan) 
