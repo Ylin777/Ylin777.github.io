@@ -12,7 +12,7 @@ I am a third-year student at Monash University and will be graduating next year.
 [CV](https://www.overleaf.com/project/6ade3db2d48d9344682dd99e/share#e47b8bbcaf30578fc36b6dac1864114128a331787a1806fb)
 ## Contact
 
-My email address is of the form vo24717@helsinki.fi. 
+My email address is yilin.l.li@helsinki.fi. 
 
 ## Courses I've Taken
 
